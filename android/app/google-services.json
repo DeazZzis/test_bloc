@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325806535034",
+    "firebase_url": "https://testbloc-b9eae.firebaseio.com",
+    "project_id": "testbloc-b9eae",
+    "storage_bucket": "testbloc-b9eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325806535034:android:f0af1b484fb274d8fe26c3",
+        "android_client_info": {
+          "package_name": "com.chernetskyi.testblocapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325806535034-ocbkkd5qid3blc7946u9gnteeaf2jus2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPy3A1I3kXBFxik0YSbo4jNoi7wpR31kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325806535034-ocbkkd5qid3blc7946u9gnteeaf2jus2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
